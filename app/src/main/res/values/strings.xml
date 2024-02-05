@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ThreadsApp</string>
+    <string name="message_button">Message Button</string>
+    <string name="loading_button">Loading Button</string>
+</resources>
